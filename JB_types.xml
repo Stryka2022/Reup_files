@@ -1,0 +1,531 @@
+<?xml version="1.0" ?>
+<types>
+	<type name="JB_Purple_AR15Skeleton">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	  </type>
+	<type name="JB_PurpleGold_AR15Skeleton">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	  </type>
+	<type name="JB_BlackGold_AR15Skeleton">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	  </type>
+	<type name="JB_Gold_AR15Skeleton">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	  </type>
+	<type name="JB_BlackSteel_AR15Skeleton">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	  </type>
+	<type name="JB_Blue_AR15Skeleton">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	  </type>
+	<type name="JB_Green_AR15Skeleton">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	  </type>
+	  <type name="JB_KIVAARI_Snake">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Snake2">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Snake3">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Snake4">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Snake5">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Snake6">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Snake7">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Snake8">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Snake9">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Snake10">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Snake11">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Snake12">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Digi">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Camouflage">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Obsidian">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Dragon">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_GoldDragon">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_FireDragon">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_MagicDragon">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_SilverDragon">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_PurpleDragon">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_MidnightDragon">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_GreenDragon">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_DuskDragon">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_DayDragon">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_BlueDragon">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_BlackDragon">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_GoldCamouflage">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Pillar">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Puzzled">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_Rush">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_PurpleHaze">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_PurpleDeath">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_RedDeath">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_BlueDeath">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_GreenDeath">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+	<type name="JB_KIVAARI_OrangeDeath">
+		   <nominal>1</nominal>
+		   <lifetime>28800</lifetime>
+		   <restock>0</restock>
+		   <min>1</min>
+		   <quantmin>-1</quantmin>
+		   <quantmax>-1</quantmax>
+		   <cost>100</cost>
+		   <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+		   <category name="weapons"/>
+		   <usage name="Military"/>
+	</type>
+</types>

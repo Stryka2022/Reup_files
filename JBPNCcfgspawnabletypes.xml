@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+	<type name="JB_Purple_AR15Skeleton">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_556mm_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_60Rnd" chance="0.50" />
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="JB_PurpleGold_AR15Skeleton">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_556mm_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_60Rnd" chance="0.50" />
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="JB_BlackGold_AR15Skeleton">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_556mm_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_60Rnd" chance="0.50" />
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="JB_Gold_AR15Skeleton">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_556mm_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_60Rnd" chance="0.50" />
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="JB_BlackSteel_AR15Skeleton">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_556mm_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_60Rnd" chance="0.50" />
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="JB_Blue_AR15Skeleton">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_556mm_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_60Rnd" chance="0.50" />
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="JB_Green_AR15Skeleton">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_556mm_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_60Rnd" chance="0.50" />
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Snake">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Snake2">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Snake3">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Snake4">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Snake5">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Snake6">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Snake7">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Snake8">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Snake9">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Snake10">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Snake11">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Snake12">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Digi">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Camouflage">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Obsidian">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Dragon">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_GoldDragon">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_FireDragon">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_MagicDragon">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_SilverDragon">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_PurpleDragon">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_MidnightDragon">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_GreenDragon">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_DuskDragon">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_DayDragon">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_BlueDragon">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_BlackDragon">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_GoldCamouflage">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Pillar">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Puzzled">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_Rush">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_PurpleHaze">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_PurpleDeath">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_RedDeath">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_BlueDeath">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_GreenDeath">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="JB_KIVAARI_OrangeDeath">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="PNC_KIVAARI_Bttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Suppressor_338" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>
