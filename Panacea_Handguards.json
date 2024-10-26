@@ -1,0 +1,88 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Panacea_Handguards",
+  "Icon": "Deliver",
+  "Color": "00FF40FF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "PNC_RPK16_Handguard_green",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_RPK16_Handguard_tan",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_RPK16_Handguard_black",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_RPK16_Handguard_VLTOR_black",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Fal_WoodenHndgrd",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Fal_PlasticHndgrd",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Fal_RISHndgrd",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ],
+  "SortByDisplayName": false
+}

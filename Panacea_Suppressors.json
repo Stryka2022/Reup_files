@@ -1,0 +1,220 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Panacea_Suppressors",
+  "Icon": "Deliver",
+  "Color": "00FF40FF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "PNC_Suppressor_408_CheyTac",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Suppressor_65_Creedmore",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Suppressor_65_Creedmore_tan",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Suppressor_65_Creedmore_Green",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Suppressor_762x39mm_Legion",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Suppressor_556mm",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Suppressor_556mm_2",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Suppressor_308win",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Aurora_Suppressor",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_BarretM82A1_Suppressor",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_BarretM82A1_Suppressor_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_BarretM82A1_Suppressor_desert",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_BarretM82A1_Suppressor_snow",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_HoneyBadger_Suppressor_01",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_HoneyBadger_Suppressor_02",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_HoneyBadger_Suppressor_03",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Suppressor_338",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Fal_Compensator_1",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PNC_Fal_Compensator_2",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ],
+  "SortByDisplayName": false
+}

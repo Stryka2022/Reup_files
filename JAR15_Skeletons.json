@@ -1,0 +1,88 @@
+{
+  "m_Version": 12,
+  "DisplayName": "JAR15_Skeletons",
+  "Icon": "Deliver",
+  "Color": "00FF40FF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "JB_Purple_AR15Skeleton",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "JB_PurpleGold_AR15Skeleton",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "JB_BlackGold_AR15Skeleton",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "JB_Gold_AR15Skeleton",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "JB_BlackSteel_AR15Skeleton",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "JB_Blue_AR15Skeleton",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "JB_Green_AR15Skeleton",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ],
+  "SortByDisplayName": false
+}
